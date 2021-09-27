@@ -1,6 +1,23 @@
 mJS: Restricted JavaScript engine
 ====================================
 
+=======================================================
+
+Just
+```
+git clone https://github.com/JavaScriptBench/mjs.git
+cd mjs/
+git checkout master
+make 
+make test 
+./build/mjs  test.js
+```
+
+
+
+
+========================================================
+
 [![License](https://img.shields.io/badge/license-GPL_2-green.svg)](https://github.com/cesanta/mjs/blob/master/LICENSE)
 
 # Overview
